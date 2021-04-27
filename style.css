@@ -1,6 +1,7 @@
-.roy{color:royalblue}
-.light{color:lightblue}
-.sm{font-size: 10px}
-.ora{color:orange}
+.roy{color:royalblue; border-style:dashed; border-width: thick}
+.light{color:lightblue; border-style:dashed; border-width:thick}
+.sm{font-size: 10px; border-style: dotted; border-width:thin}
+.ora{color:orange; border-style: dashed; border-width: thick}
 .itali{font-style: italic}
-h3{font-style: italic}
+h3{font-style: italic; font-weight: bolder}
+.lar{font-size:larger}
